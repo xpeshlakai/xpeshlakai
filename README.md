@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xpeshlakai
 - 👀 I’m interested in ... electric vehicles and battery manufacturing.
 - 🌱 I’m currently learning ... about ways to improve battery manufacturing.
-- 💞️ I’m looking to collaborate on ... building and electric vehicle
+- 💞️ I’m looking to collaborate on ... writing code.
 - 📫 How to reach me ... by email xpeshlakai64@gmail.com
 
 <!---
